@@ -3667,7 +3667,7 @@ button:focus {
     padding-top: 80px;
 }
 .arc-about-year-pic{position:relative; background-color:#000;}
-.arc-about-year-pic img{widows:100%; opacity:0.1}
+.arc-about-year-pic img{widows:100%; opacity:0.3}
 .arc-about-year-info{
 position: absolute;
 top: 30px;
@@ -3846,7 +3846,7 @@ padding: 20px;;}
 }
 @media only screen and (max-width:768px){
 .text-outline{
-  font-size:80px;
+  font-size:61px;
   line-height:80px;
   display:block;
 }
